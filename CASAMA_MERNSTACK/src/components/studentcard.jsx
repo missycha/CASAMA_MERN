@@ -9,6 +9,7 @@ function studentCard({name, age, birthday, studNum, course}){
                 <p>Course: {course}</p>
             </div>
         </div>
+        
     )
 }
 export default studentCard;
