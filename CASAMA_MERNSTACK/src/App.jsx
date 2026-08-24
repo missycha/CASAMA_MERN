@@ -1,5 +1,5 @@
 import StudentCard from "./components/studentcard";
-
+import Subject from "./components/subject";
 function App(){
     return(
       <div className="min-h-screen bg-black-100 py-10">
