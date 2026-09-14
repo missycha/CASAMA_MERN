@@ -1,5 +1,3 @@
-import Home from "../pages/Home.jsx";
-import Students from "../pages/Students.jsx";
 import {Link} from "react-router-dom";
 
 export default function Navbar(){
@@ -9,6 +7,7 @@ export default function Navbar(){
             <div className="container mx-auto">
                 <Link to="/" className="text-x1 font-bold mr-4">Home</Link>
                 <Link to="/students" className="text-x1 font-bold">Students</Link>
+                <Link to="/addstudent" className="text-x1 font-bold">Add Student</Link>
             </div>
         </nav>
     )
