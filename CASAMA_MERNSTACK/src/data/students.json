@@ -1,0 +1,26 @@
+[
+{
+    "id": 1,
+    "name": "Ann Hee Qa Ela",
+    "studentNumber": "202467",
+    "yearLevel": "3rd Year",
+    "address": "Indang, Cavite",
+    "course": "BS Information Technology"
+},
+{
+    "id": 2,
+    "name": "Em Jay Leenon Sai",
+    "studentNumber": "20267",
+    "yearLevel": "3rd Year",
+    "address": "Dasmarinas, Cavite",
+    "course": "BS Computer Science"
+},
+{
+    "id": 3,
+    "name": "Kirstian Jaey Rohn Kal es",
+    "studentNumber": "20246767",
+    "yearLevel": "3rd Year",
+    "address": "Silang, Cavite",
+    "course": "BS Information Technology"
+}
+]
